@@ -42,6 +42,8 @@ set "status-right-length" "100"
 set "message-style" "fg=$onedark_blue,bg=$onedark_black"
 set "message-command-style" "fg=$onedark_black,bg=$onedark_blue"
 
+set "mode-style" "fg=$onedark_black,bg=$onedark_dark_yellow"
+
 set "copy-mode-match-style" "fg=$onedark_black,bg=$onedark_yellow"
 set "copy-mode-current-match-style" "fg=$onedark_black,bg=$onedark_dark_yellow"
 
