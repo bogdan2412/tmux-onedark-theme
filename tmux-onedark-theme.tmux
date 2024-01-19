@@ -38,8 +38,8 @@ set "status-justify" "left"
 set "status-left-length" "100"
 set "status-right-length" "100"
 
-set "message-style" "fg=$onedark_white,bg=$onedark_black"
-set "message-command-style" "fg=$onedark_white,bg=$onedark_black"
+set "message-style" "fg=$onedark_blue,bg=$onedark_black"
+set "message-command-style" "fg=$onedark_black,bg=$onedark_blue"
 
 set "status-style" "none"
 set "status-left-style" "none"
