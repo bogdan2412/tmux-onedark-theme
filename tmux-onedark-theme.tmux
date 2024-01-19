@@ -2,6 +2,7 @@
 onedark_black="#282c34"
 onedark_blue="#61afef"
 onedark_yellow="#e5c07b"
+onedark_dark_yellow="#d19a66"
 onedark_red="#e06c75"
 onedark_white="#aab2bf"
 onedark_green="#98c379"
@@ -40,6 +41,9 @@ set "status-right-length" "100"
 
 set "message-style" "fg=$onedark_blue,bg=$onedark_black"
 set "message-command-style" "fg=$onedark_black,bg=$onedark_blue"
+
+set "copy-mode-match-style" "fg=$onedark_black,bg=$onedark_yellow"
+set "copy-mode-current-match-style" "fg=$onedark_black,bg=$onedark_dark_yellow"
 
 set "status-style" "none"
 set "status-left-style" "none"
